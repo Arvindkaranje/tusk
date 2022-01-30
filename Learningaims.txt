@@ -1,0 +1,18 @@
+Python core with good practice 
+Python data structers 12hrs class
+Python projects 
+Python libraries >numpy,pandas,matplotlib,seabon,keras,tenasflow
+SQL udemy course
+SQL yotube course
+DJango telusko course
+Django core 
+HTML core
+CSS core 
+JS core
+Linux basics
+statistic
+calculas
+probability
+algebra
+data science 
+machine learning
