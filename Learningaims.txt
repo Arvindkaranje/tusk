@@ -17,6 +17,7 @@ algebra
 data science 
 machine learning
 
-
+AWS
+Further booming technologies
 
 
