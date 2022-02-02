@@ -17,7 +17,11 @@ algebra
 data science 
 machine learning
 
+IOT
+also big data
+
 AWS
 Further booming technologies
+
 
 
